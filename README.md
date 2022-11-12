@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing back-end solutions 
 - 🌱 I’m currently learning Java, Python, C# and PHP
 - 💞️ I’m looking to collaborate on different projects that develop these technologies
-- 📫 You can reach me on aldomedrano2201@gamil.com
+- 📫 You can reach me on aldomedrano2201@gmail.com
 
 <!---
 aldomedrano2201/aldomedrano2201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
