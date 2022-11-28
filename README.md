@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aldomedrano2201
 - 👀 I’m interested in developing back-end solutions 
-- 🌱 I’m currently learning Java, Python, C# and PHP
+- 🌱 I’m currently learning Java, Python, C#, PHP, Android and iOS mobile development.
 - 💞️ I’m looking to collaborate on different projects that develop these technologies
 - 📫 You can reach me on aldomedrano2201@gmail.com
 
